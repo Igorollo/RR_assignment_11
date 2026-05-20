@@ -1,7 +1,7 @@
 [project]
 name = "rr-assignment-11"
 version = "0.1.0"
-description = "Minimal reproducible Python project for RR assignment 11"
+description = "Reproducible Python project for RR assignment 11"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
