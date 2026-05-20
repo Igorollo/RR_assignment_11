@@ -1,6 +1,6 @@
 # RR Assignment 11
 
-Minimal reproducible Python project using `uv`.
+Reproducible Python project using `uv`.
 
 ## Setup
 
